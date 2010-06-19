@@ -1,0 +1,5 @@
+category: Gnome
+requires: libatk1.0_0 libgcc1 libgconf2_4 libgdk_pixbuf2.0_0 libglib2.0_0 libgnome-desktop2_17 libgnome-menu2 libgtk2.0_0 librsvg2_2
+external-source: libslab
+sdesc: "GNOME app beautification library (runtime)"
+ldesc: "GNOME app beautification library"

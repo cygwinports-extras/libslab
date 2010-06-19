@@ -1,0 +1,5 @@
+category: Gnome
+requires: libslab0 libatk1.0-devel libgconf2-devel libgdk_pixbuf2.0-devel libglib2.0-devel libgnome-desktop2-devel libgnome-menu-devel libgtk2.0-devel librsvg2-devel
+external-source: libslab
+sdesc: "GNOME app beautification library (development)"
+ldesc: "GNOME app beautification library"

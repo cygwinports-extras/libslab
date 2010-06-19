@@ -1,0 +1,8 @@
+inherit gnome2
+
+
+PATCH_URI="2.30-no-undefined.patch"
+
+PKG_NAMES="${PN} ${PN}0 ${PN}-devel"
+libslab0_CONTENTS="usr/bin/*-0.dll usr/share/"
+libslab_devel_CONTENTS="usr/include/ usr/lib/"
